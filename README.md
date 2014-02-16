@@ -9,4 +9,4 @@ This is the list of all the TV series I've been watching since October 2010. I h
 find some new interesting titles! If you want to propose something, just fork this repo and send pull request with the list updated in [TV Shows to consider](https://github.com/kunaltyagi/tv-series/blob/master/data/proposals.js) part.
 
 ## Ripoff of
-[Machaxx Repo](https://github.com/michalbe.github.com/tv-series/)
+[Machaxx Repo](https://github.com/michalbe/tv-series/)
