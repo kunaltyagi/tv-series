@@ -6,9 +6,9 @@
 var toConsider = [{
   "title": "Sample",
   "imdb": "http://www.imdb.com/title/tt00000",
-  "episodes": 0,
-  "totalEpisodes": 1
-  "episodeLength": 1,
-  "stillWatching": 0,
+  "episodes": 1,
+  "totalEpisodes": 12
+  "episodeLength": 23,
+  "stillWatching": 1,
   "votes": ["github_account","another_gh_account"]
 }]
