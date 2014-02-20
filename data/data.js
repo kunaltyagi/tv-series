@@ -48,12 +48,6 @@ var series = [{
   "episodeLength": 60,
   "stillWatching": 1
 }, {
-  "title": "Family Guy",
-  "imdb": "http://www.imdb.com/title/tt0182576/",
-  "episodes": 221,
-  "episodeLength": 22,
-  "stillWatching": 1
-}, {
   "title": "Friends",
   "imdb": "http://www.imdb.com/title/tt0108778/",
   "episodes": 239,
@@ -62,27 +56,31 @@ var series = [{
   "stillWatching": 0
 }, {
   "title": "Game of Thrones",
-  "imdb": "http://www.imdb.com/title/tt0944947",
+  "imdb": "http://www.imdb.com/title/tt0944947/",
   "episodes": 30,
+  "totalEpisodes": 40,
   "episodeLength": 60,
   "stillWatching": 1
 },{
   "title": "How I met your mother",
   "imdb": "http://www.imdb.com/title/tt0460649/",
   "episodes": 201,
-  "episodeLength": 22,
+  "totalEpisodes": 208,
+  "episodeLength": 25,
   "stillWatching": 1
 }, {
   "title": "Mentalist",
-  "imdb": "http://www.imdb.com/title/tt1196946",
-  "episodes": 128,
-  "episodeLength": 42,
+  "imdb": "http://www.imdb.com/title/tt1196946/",
+  "episodes": 129,
+  "totalEpisodes": 138,
+  "episodeLength": 43,
   "stillWatching": 1
 }, {
   "title": "Scrubs",
-  "imdb": "http://www.imdb.com/title/tt0285403",
-  "episodes": 182,
-  "episodeLength": 23,
+  "imdb": "http://www.imdb.com/title/tt0285403/",
+  "episodes": 83,
+  "totalEpisodes": 183,
+  "episodeLength": 24,
   "stillWatching": 0
 }, {
   "title": "Sex and the City",
