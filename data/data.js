@@ -81,48 +81,47 @@ var series = [{
   "episodes": 83,
   "totalEpisodes": 183,
   "episodeLength": 24,
-  "stillWatching": 0
+  "stillWatching": 1
 }, {
   "title": "Sex and the City",
-  "imdb": "http://www.imdb.com/title/tt0159206",
+  "imdb": "http://www.imdb.com/title/tt0159206/",
   "episodes": 4,
+  "totalEpisodes": 94,
   "episodeLength": 30,
   "stillWatching": 0
 }, {
   "title": "Sherlock",
   "imdb": "http://www.imdb.com/title/tt1475582/",
   "episodes": 9,
+  "totalEpisodes": 12,
   "episodeLength": 90,
   "stillWatching": 1
 }, {
   "title": "Simpsons, The",
   "imdb": "http://www.imdb.com/title/tt0096697/",
-  "episodes": 23,
-  "totalEpisodes": 523,
-  "episodeLength": 24,
-  "stillWatching": 1
+  "episodes": 43,
+  "totalEpisodes": 554,
+  "episodeLength": 22,
+  "stillWatching": 0
 }, {
   "title": "Suits",
   "imdb": "http://www.imdb.com/title/tt1632701/",
-  "episodes": 34,
-  "episodeLength": 42,
+  "episodes": 38,
+  "totalEpisodes": 38,
+  "episodeLength": 45,
   "stillWatching": 1
 }, {
   "title": "Two and a half men",
-  "imdb": "http://www.imdb.com/title/tt0369179",
-  "episodes": 237,
-  "episodeLength": 21,
-  "stillWatching": 1
+  "imdb": "http://www.imdb.com/title/tt0369179/",
+  "episodes": 230,
+  "totalEpisodes": 240,
+  "episodeLength": 22,
+  "stillWatching": 0
 }, {
   "title": "White Collar",
   "imdb": "http://www.imdb.com/title/tt1358522/",
-  "episodes": 61,
-  "episodeLength": 42,
+  "episodes": 67,
+  "totalEpisodes": 68,
+  "episodeLength": 40,
   "stillWatching": 1
-}, {
-  "title": "Wire, The",
-  "imdb": "http://www.imdb.com/title/tt0306414",
-  "episodes": 60,
-  "episodeLength": 60,
-  "stillWatching": 0
 }];
