@@ -1,45 +1,51 @@
 var series = [{
   "title": "Big Bang Theory, The",
   "imdb": "http://www.imdb.com/title/tt0898266/",
-  "episodes": 148,
-  "episodeLength": 22,
+  "episodes": 151,
+  "totalEpisodes": 155,
+  "episodeLength": 21,
   "stillWatching": 1
 }, {
   "title": "Breaking Bad",
   "imdb": "http://www.imdb.com/title/tt0903747/",
-  "episodes": 62,
-  "episodeLength": 52,
+  "episodes": 2,
+  "totalEpisodes": 62,
+  "episodeLength": 45,
   "stillWatching": 1
 }, {
   "title": "Castle",
   "imdb": "http://www.imdb.com/title/tt1219024/",
-  "episodes": 112,
-  "episodeLength": 22,
+  "episodes": 120,
+  "episodeLength": 43,
+  "totalEpisodes": 124,
   "stillWatching": 1
 }, {
-  "title": "CSI: Las vegas",
+  "title": "CSI: Crime Scene Investigations",
   "imdb": "http://www.imdb.com/title/tt0247082/",
-  "episodes": 121,
-  "totalEpisodes": 287,
-  "episodeLength": 45,
+  "episodes": 301,
+  "totalEpisodes": 313,
+  "episodeLength": 60,
   "stillWatching": 0
 }, {
   "title": "Dexter",
   "imdb": "http://www.imdb.com/title/tt0773262/",
-  "episodes": 96,
-  "episodeLength": 53,
-  "stillWatching": 0
+  "episodes": 92,
+  "totalEpisodes": 96,
+  "episodeLength": 60,
+  "stillWatching": 1
 },{
   "title": "Doctor Who",
   "imdb": "http://www.imdb.com/title/tt0436992/",
-  "episodes": 20,
-  "episodeLength": 45,
+  "episodes": 98,
+  "totalEpisodes": 113,
+  "episodeLength": 71,
   "stillWatching": 1
 },{
   "title": "Elementary",
   "imdb": "http://www.imdb.com/title/tt2191671/",
-  "episodes": 25,
-  "episodeLength": 44,
+  "episodes": 35,
+  "totalEpisodes": 42,
+  "episodeLength": 60,
   "stillWatching": 1
 }, {
   "title": "Family Guy",
@@ -86,7 +92,7 @@ var series = [{
   "stillWatching": 0
 }, {
   "title": "Sherlock",
-  "imdb": "http://www.imdb.com/title/tt1475582",
+  "imdb": "http://www.imdb.com/title/tt1475582/",
   "episodes": 9,
   "episodeLength": 90,
   "stillWatching": 1
