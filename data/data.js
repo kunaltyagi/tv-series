@@ -20,6 +20,13 @@ var series = [{
   "totalEpisodes": 124,
   "stillWatching": 1
 }, {
+  "title": "Community",
+  "imdb": "http://www.imdb.com/title/tt2911368/",
+  "episodes": 12,
+  "episodeLength": 22,
+  "totalEpisodes": 98,
+  "stillWatching": 1
+}, {
   "title": "CSI: Crime Scene Investigations",
   "imdb": "http://www.imdb.com/title/tt0247082/",
   "episodes": 301,
@@ -75,6 +82,20 @@ var series = [{
   "totalEpisodes": 138,
   "episodeLength": 43,
   "stillWatching": 1
+}, {
+  "title": "Modern Family",
+  "imdb": "http://www.imdb.com/title/tt1442437/",
+  "episodes:": 12,
+  "totalEpisodes": 115,
+  "episodeLength": 30,
+  "stillWatching": 1
+}, {
+  "title": "Sarabhai vs Sarabhai",
+  "imdb": "http://www.imdb.com/title/tt1579497/",
+  "episodes": 30,
+  "totalEpisodes": 69,
+  "episodeLength": 30,
+  "stillWatching": 0
 }, {
   "title": "Scrubs",
   "imdb": "http://www.imdb.com/title/tt0285403/",
