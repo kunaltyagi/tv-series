@@ -90,6 +90,13 @@ var series = [{
   "episodeLength": 30,
   "stillWatching": 1
 }, {
+  "title": "Person of Interest",
+  "imdb": "http://www.imdb.com/title/tt1839578/",
+  "episodes": 61,
+  "totalEpisodes": 63,
+  "episodeLength": 43,
+  "stillWatching": 1
+}, {
   "title": "Sarabhai vs Sarabhai",
   "imdb": "http://www.imdb.com/title/tt1579497/",
   "episodes": 30,
