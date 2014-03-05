@@ -85,7 +85,7 @@ var series = [{
 }, {
   "title": "Modern Family",
   "imdb": "http://www.imdb.com/title/tt1442437/",
-  "episodes:": 12,
+  "episodes": 12,
   "totalEpisodes": 115,
   "episodeLength": 30,
   "stillWatching": 1
