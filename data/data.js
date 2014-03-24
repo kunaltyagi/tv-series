@@ -1,8 +1,8 @@
 var series = [{
   "title": "Big Bang Theory, The",
   "imdb": "http://www.imdb.com/title/tt0898266/",
-  "episodes": 151,
-  "totalEpisodes": 155,
+  "episodes": 155,
+  "totalEpisodes": 163,
   "episodeLength": 21,
   "stillWatching": 1
 }, {
@@ -15,9 +15,9 @@ var series = [{
 }, {
   "title": "Castle",
   "imdb": "http://www.imdb.com/title/tt1219024/",
-  "episodes": 120,
+  "episodes": 124,
   "episodeLength": 43,
-  "totalEpisodes": 124,
+  "totalEpisodes": 128,
   "stillWatching": 1
 }, {
   "title": "Community",
@@ -71,7 +71,7 @@ var series = [{
 },{
   "title": "How I met your mother",
   "imdb": "http://www.imdb.com/title/tt0460649/",
-  "episodes": 201,
+  "episodes": 205,
   "totalEpisodes": 208,
   "episodeLength": 25,
   "stillWatching": 1
@@ -92,8 +92,8 @@ var series = [{
 }, {
   "title": "Person of Interest",
   "imdb": "http://www.imdb.com/title/tt1839578/",
-  "episodes": 61,
-  "totalEpisodes": 63,
+  "episodes": 63,
+  "totalEpisodes": 69,
   "episodeLength": 43,
   "stillWatching": 1
 }, {
@@ -134,8 +134,8 @@ var series = [{
 }, {
   "title": "Suits",
   "imdb": "http://www.imdb.com/title/tt1632701/",
-  "episodes": 38,
-  "totalEpisodes": 38,
+  "episodes": 42,
+  "totalEpisodes": 44,
   "episodeLength": 45,
   "stillWatching": 1
 }, {
