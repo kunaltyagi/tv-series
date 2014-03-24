@@ -106,7 +106,7 @@ var series = [{
 }, {
   "title": "Scrubs",
   "imdb": "http://www.imdb.com/title/tt0285403/",
-  "episodes": 84,
+  "episodes": 104,
   "totalEpisodes": 183,
   "episodeLength": 24,
   "stillWatching": 1
