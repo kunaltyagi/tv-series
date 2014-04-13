@@ -64,17 +64,24 @@ var series = [{
 }, {
   "title": "Game of Thrones",
   "imdb": "http://www.imdb.com/title/tt0944947/",
-  "episodes": 30,
+  "episodes": 31,
   "totalEpisodes": 40,
   "episodeLength": 60,
   "stillWatching": 1
-},{
+}, {
+  "title": "House M.D.",
+  "imdb": "http://www.imdb.com/title/tt0412142/",
+  "episodes": 2,
+  "totalEpisodes": 176,
+  "episodeLength": 45,
+  "stillWatching": 1
+}, {
   "title": "How I met your mother",
   "imdb": "http://www.imdb.com/title/tt0460649/",
-  "episodes": 205,
+  "episodes": 208,
   "totalEpisodes": 208,
   "episodeLength": 25,
-  "stillWatching": 1
+  "stillWatching": 0
 }, {
   "title": "Mentalist",
   "imdb": "http://www.imdb.com/title/tt1196946/",
@@ -134,7 +141,7 @@ var series = [{
 }, {
   "title": "Suits",
   "imdb": "http://www.imdb.com/title/tt1632701/",
-  "episodes": 42,
+  "episodes": 44,
   "totalEpisodes": 44,
   "episodeLength": 45,
   "stillWatching": 1
@@ -148,7 +155,7 @@ var series = [{
 }, {
   "title": "White Collar",
   "imdb": "http://www.imdb.com/title/tt1358522/",
-  "episodes": 67,
+  "episodes": 68,
   "totalEpisodes": 68,
   "episodeLength": 40,
   "stillWatching": 1
