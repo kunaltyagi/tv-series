@@ -71,7 +71,7 @@ var series = [{
 }, {
   "title": "House M.D.",
   "imdb": "http://www.imdb.com/title/tt0412142/",
-  "episodes": 2,
+  "episodes": 22,
   "totalEpisodes": 176,
   "episodeLength": 45,
   "stillWatching": 1
