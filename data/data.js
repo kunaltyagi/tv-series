@@ -1,30 +1,30 @@
 var series = [{
   "title": "Big Bang Theory, The",
   "imdb": "http://www.imdb.com/title/tt0898266/",
-  "episodes": 155,
-  "totalEpisodes": 163,
-  "episodeLength": 21,
+  "episodes": 184,
+  "totalEpisodes": 184,
+  "episodeLength": 22,
   "stillWatching": 1
 }, {
   "title": "Breaking Bad",
   "imdb": "http://www.imdb.com/title/tt0903747/",
-  "episodes": 2,
+  "episodes": 3,
   "totalEpisodes": 62,
   "episodeLength": 45,
   "stillWatching": 1
 }, {
   "title": "Castle",
   "imdb": "http://www.imdb.com/title/tt1219024/",
-  "episodes": 124,
+  "episodes": 152,
   "episodeLength": 43,
-  "totalEpisodes": 128,
+  "totalEpisodes": 152,
   "stillWatching": 1
 }, {
   "title": "Community",
   "imdb": "http://www.imdb.com/title/tt2911368/",
-  "episodes": 12,
+  "episodes": 21,
   "episodeLength": 22,
-  "totalEpisodes": 98,
+  "totalEpisodes": 110,
   "stillWatching": 1
 }, {
   "title": "CSI: Crime Scene Investigations",
@@ -64,14 +64,14 @@ var series = [{
 }, {
   "title": "Game of Thrones",
   "imdb": "http://www.imdb.com/title/tt0944947/",
-  "episodes": 31,
-  "totalEpisodes": 40,
+  "episodes": 58,
+  "totalEpisodes": 58,
   "episodeLength": 60,
   "stillWatching": 1
 }, {
   "title": "House M.D.",
   "imdb": "http://www.imdb.com/title/tt0412142/",
-  "episodes": 22,
+  "episodes": 176,
   "totalEpisodes": 176,
   "episodeLength": 45,
   "stillWatching": 1
@@ -85,7 +85,7 @@ var series = [{
 }, {
   "title": "Mentalist",
   "imdb": "http://www.imdb.com/title/tt1196946/",
-  "episodes": 129,
+  "episodes": 138,
   "totalEpisodes": 138,
   "episodeLength": 43,
   "stillWatching": 1
@@ -99,21 +99,21 @@ var series = [{
 }, {
   "title": "Person of Interest",
   "imdb": "http://www.imdb.com/title/tt1839578/",
-  "episodes": 63,
-  "totalEpisodes": 69,
+  "episodes": 103,
+  "totalEpisodes": 103,
   "episodeLength": 43,
   "stillWatching": 1
 }, {
   "title": "Sarabhai vs Sarabhai",
   "imdb": "http://www.imdb.com/title/tt1579497/",
-  "episodes": 30,
+  "episodes": 51,
   "totalEpisodes": 69,
   "episodeLength": 30,
   "stillWatching": 0
 }, {
   "title": "Scrubs",
   "imdb": "http://www.imdb.com/title/tt0285403/",
-  "episodes": 104,
+  "episodes": 183,
   "totalEpisodes": 183,
   "episodeLength": 24,
   "stillWatching": 1
@@ -127,7 +127,7 @@ var series = [{
 }, {
   "title": "Sherlock",
   "imdb": "http://www.imdb.com/title/tt1475582/",
-  "episodes": 9,
+  "episodes": 12,
   "totalEpisodes": 12,
   "episodeLength": 90,
   "stillWatching": 1
@@ -141,8 +141,8 @@ var series = [{
 }, {
   "title": "Suits",
   "imdb": "http://www.imdb.com/title/tt1632701/",
-  "episodes": 44,
-  "totalEpisodes": 44,
+  "episodes": 63,
+  "totalEpisodes": 63,
   "episodeLength": 45,
   "stillWatching": 1
 }, {
@@ -155,8 +155,8 @@ var series = [{
 }, {
   "title": "White Collar",
   "imdb": "http://www.imdb.com/title/tt1358522/",
-  "episodes": 68,
-  "totalEpisodes": 68,
+  "episodes": 81,
+  "totalEpisodes": 81,
   "episodeLength": 40,
   "stillWatching": 1
 }];
