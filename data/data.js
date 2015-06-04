@@ -1,4 +1,18 @@
 var series = [{
+  "title": "Agent Carter",
+  "imdb": "http://www.imdb.com/title/tt3475734/",
+  "episodes": 8,
+  "totalEpisodes": 8,
+  "episodeLength": 42,
+  "stillWatching": 1
+}, {
+  "title": "Arrow",
+  "imdb": "http://www.imdb.com/title/tt2193021/",
+  "episodes": 69,
+  "totalEpisodes": 69,
+  "episodeLength": 42,
+  "stillWatching": 1
+}, {
   "title": "Big Bang Theory, The",
   "imdb": "http://www.imdb.com/title/tt0898266/",
   "episodes": 184,
@@ -34,20 +48,27 @@ var series = [{
   "episodeLength": 60,
   "stillWatching": 0
 }, {
+  "title": "Daredevil",
+  "imdb": "http://www.imdb.com/title/tt3322312/",
+  "episodes": 13,
+  "totalEpisodes": 13,
+  "episodeLength": 60,
+  "stillWatching": 1
+}, {
   "title": "Dexter",
   "imdb": "http://www.imdb.com/title/tt0773262/",
   "episodes": 92,
   "totalEpisodes": 96,
   "episodeLength": 60,
   "stillWatching": 1
-},{
+}, {
   "title": "Doctor Who",
   "imdb": "http://www.imdb.com/title/tt0436992/",
   "episodes": 98,
   "totalEpisodes": 113,
   "episodeLength": 71,
   "stillWatching": 1
-},{
+}, {
   "title": "Elementary",
   "imdb": "http://www.imdb.com/title/tt2191671/",
   "episodes": 35,
@@ -69,6 +90,27 @@ var series = [{
   "episodeLength": 60,
   "stillWatching": 1
 }, {
+  "title": "Gotham",
+  "imdb": "http://www.imdb.com/title/tt3749900/",
+  "episodes": 22,
+  "totalEpisodes": 22,
+  "episodeLength": 42,
+  "stillWatching": 1
+}, {
+  "title": "Homeland",
+  "imdb": "http://www.imdb.com/title/tt1796960/",
+  "episodes": 48,
+  "totalEpisodes": 48,
+  "episodeLength": 55,
+  "stillWatching": 1
+}, {
+  "title": "House of Cards",
+  "imdb": "http://www.imdb.com/title/tt1856010/",
+  "episodes": 39,
+  "totalEpisodes": 39,
+  "episodeLength": 55,
+  "stillWatching": 1
+}, {
   "title": "House M.D.",
   "imdb": "http://www.imdb.com/title/tt0412142/",
   "episodes": 176,
@@ -83,6 +125,13 @@ var series = [{
   "episodeLength": 25,
   "stillWatching": 0
 }, {
+  "title": "Madam Secretary",
+  "imdb": "http://www.imdb.com/title/tt3501074/",
+  "episodes": 22,
+  "totalEpisodes": 22,
+  "episodeLength": 45,
+  "stillWatching": 1
+}, {
   "title": "Mentalist",
   "imdb": "http://www.imdb.com/title/tt1196946/",
   "episodes": 138,
@@ -95,6 +144,13 @@ var series = [{
   "episodes": 12,
   "totalEpisodes": 115,
   "episodeLength": 30,
+  "stillWatching": 1
+}, {
+  "title": "Nikita",
+  "imdb": "http://www.imdb.com/title/tt1592154/",
+  "episodes": 73,
+  "totalEpisodes": 73,
+  "episodeLength": 60,
   "stillWatching": 1
 }, {
   "title": "Person of Interest",
@@ -144,6 +200,20 @@ var series = [{
   "episodes": 63,
   "totalEpisodes": 63,
   "episodeLength": 45,
+  "stillWatching": 1
+}, {
+  "title": "The Blacklist",
+  "imdb": "http://www.imdb.com/title/tt2741602/",
+  "episodes": 32,
+  "totalEpisodes": 44,
+  "episodeLength": 43,
+  "stillWatching": 1
+}, {
+  "title": "The Flash",
+  "imdb": "http://www.imdb.com/title/tt3107288/",
+  "episodes": 23,
+  "totalEpisodes": 23,
+  "episodeLength": 43,
   "stillWatching": 1
 }, {
   "title": "Two and a half men",
