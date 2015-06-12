@@ -1,6 +1,3 @@
-# TODO
-I broke the render.js, hours not dislayed
-
 tv-series
 =========
 
