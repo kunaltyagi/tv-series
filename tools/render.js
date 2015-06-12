@@ -53,8 +53,8 @@ var Renderer = function(data, parent){
     }
 
     totalLength.innerHTML = //~~
-      (((totalMinutes/60)/24|0) === 0 ? '' : (((totalMinutes/60)/24)|0) + " days ") +
-      (((totalMinutes/60)%24|0) === 0 ? '' : ((totalMinutes/60)%24)|0 + " h ") +
+      ((((totalMinutes/60)/24)|0) === 0 ? '' : (((totalMinutes/60)/24)|0) + " d ") +
+      ((((totalMinutes/60)|0)%24) === 0 ? '' : (((totalMinutes/60)|0)%24) + " h ") +
       (totalMinutes%60 === 0 ? '' : totalMinutes%60 + " min "); 
 
     stillWatching.innerHTML = chunk.stillWatching ? "Yes" : "No";
