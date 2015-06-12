@@ -52,9 +52,10 @@ var Renderer = function(data, parent){
       globalTotalMinutes += totalMinutes;
     }
 
-    totalLength.innerHTML = ~~( totalMinutes / 24 / 60) + "days" + 
-      ((totalMinutes%24)%60 === 0 ? '' : totalMinutes/60 + "h") +
-      (totalMinutes%60 === 0 ? '' : totalMinutes%60 + "min"); 
+    totalLength.innerHTML = ~~
+      ((totalMinutes/24)/60 < 1 ? '' : ((totalMinutes/24)/60) + " days ") +
+      ((totalMinutes%24)%60 === 0 ? '' : (totalMinutes/60)|0 + " h ") +
+      (totalMinutes%60 === 0 ? '' : totalMinutes%60 + " min "); 
 
     stillWatching.innerHTML = chunk.stillWatching ? "Yes" : "No";
 
